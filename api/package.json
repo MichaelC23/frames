@@ -1,0 +1,9 @@
+{
+  "name": "frames",
+  "version": "0.0.1",
+  "description": "A RestAPI server",
+  "main": "index.js",
+  "repository": "https://github.com/MichaelC23/frames",
+  "author": "Michael Chiou",
+  "license": "MIT"
+}
